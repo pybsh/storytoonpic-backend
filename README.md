@@ -4,6 +4,10 @@
 
 > <b>스토리와 이미지를 인공지능으로 생성하는 앱</b>
 
+<img width="200" alt="ba41ce98-28d8-4d02-b117-4537274a01ac" src="https://github.com/user-attachments/assets/fc61350f-aaae-4933-b237-7342a82518d3" />
+<img width="200" alt="a2290a94-355d-40a7-aaa7-76c2ffb827d7" src="https://github.com/user-attachments/assets/5bb21b84-c781-4c18-b86b-f05140b37e2d" />
+<img width="200" alt="d8f1c65b-0aca-4a23-ab17-1ffbb3e2023a" src="https://github.com/user-attachments/assets/367d4e3d-c15b-4f01-ad69-2d3d1184b6fc" />
+
 ## 프로젝트 소개
 
 ### 개요
@@ -46,6 +50,7 @@
 
 ### 구조도
 
+<img width="672" height="324" alt="451478a6-c694-4d88-975d-a0b3f1392b76" src="https://github.com/user-attachments/assets/83df4719-4b53-427d-aa46-39958c35cae9" />
 
 ## 기타
 - 이 레포지토리는 **백엔드 서버** 레포지토리입니다.
